@@ -74,3 +74,10 @@ section.giannis_services_grid img.attachment-full.size-full {
   height: auto;
   margin: 1rem;
 }
+
+
+.astra-shop-thumbnail-wrap:nth-child(n+3) {
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+
+}
